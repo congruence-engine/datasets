@@ -1,2 +1,2 @@
 # datasets
-Information on datasets used on the CE projects
+Information on datasets used by the CE projects
