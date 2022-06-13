@@ -20,7 +20,8 @@
 
 ### Known History / Things to be aware of
 
-### If this a derivitive or intermediatte dataset that can be regenerated from datasets or sources elsewhere? If so how can if be regenerated.
+### If this a derivitive or intermediate dataset? 
+Can it be regenerated from other datasets or sources elsewhere? If so how?
 
 ### Life of dataset / Can or should it ever be deleted
 
