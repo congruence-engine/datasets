@@ -12,10 +12,14 @@
 
 ### Potential datasets to use alongside this dataset
 
+### Known History / things to be aware of
+
 ### Example projects using this data
 
 ### Known Biases
 
-### Known History
+### Known History / Things to be aware of
 
-### Owner
+### Owner(s)
+
+
