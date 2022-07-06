@@ -8,7 +8,7 @@ Dump of Science Musuem Group public people and company records
 
 Can be sub deivieed into people and companies using `subtype` property ie. `"type": { "base": "agent", "sub_type": [ "person" ], "type": "person" }`.
 
-May contain duplicates due to data beign sourecd from two different systems. These can be distinguished by using the [`"source": "smga"`](https://collection.sciencemuseumgroup.org.uk/api/people/ap8/babbage-charles) and [`"source": "smgc"`](https://collection.sciencemuseumgroup.org.uk/api/people/cp36993/charles-babbage)
+May contain duplicates due to data beign sourced from two different systems. These can be distinguished by using the [`"source": "smga"`](https://collection.sciencemuseumgroup.org.uk/api/people/ap8/babbage-charles) and [`"source": "smgc"`](https://collection.sciencemuseumgroup.org.uk/api/people/cp36993/charles-babbage)
 
 Conforms to this [url / query](https://collection.sciencemuseumgroup.org.uk/search/people)
 
