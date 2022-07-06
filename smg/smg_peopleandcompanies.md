@@ -23,7 +23,7 @@ Descriptions and all other text content are licensed under a Creative Commons At
 
 ### Source URL
 
-Conforms to this (url / query](https://collection.sciencemuseumgroup.org.uk/search/people)
+Conforms to this [url / query](https://collection.sciencemuseumgroup.org.uk/search/people)
 
 See also
 https://github.com/TheScienceMuseum/collectionsonline/wiki/Collections-Online-API
