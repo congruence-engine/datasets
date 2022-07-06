@@ -6,7 +6,7 @@
 
 Dump of Science Musuem Group public object records
 
-Conforms to this [url / query](https://collection.sciencemuseumgroup.org.uk/search/objects)
+Conforms to this (url / query](https://collection.sciencemuseumgroup.org.uk/search/objects)
 
 See also
 https://collection.sciencemuseumgroup.org.uk/about
