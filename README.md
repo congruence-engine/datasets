@@ -7,7 +7,7 @@ Information on datasets used by the CE projects
 
 Data appearing on the [Science Musuem Group Collection site](https://collection.sciencemuseumgroup.org.uk). 
 
-Contains data on the the objects, archives, people and companies held by the Science Museum (London), Science and Industry Museum (Manchester), National Science and Media Museum (Bradford), National Railway Museum and Locomotion (York).
+Contains data on the the objects, archives, people and companies held by the Science Museum (London), Science and Industry Museum (Manchester), National Science and Media Museum (Bradford), National Railway Museum (York) and Locomotion (Shildon).
 
 ### People and Companies
 - [peopleandcompanies_06_06_2022.json.zip](smg/smg_peopleandcompanies_06_06_2022.json.zip) ([:book:](smg/smg_peopleandcompanies.md))
