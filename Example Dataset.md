@@ -2,11 +2,17 @@
 
 ### Description
 
+## Size
+
+## Format 
+
+### Storage
+
 ### Copyright
 
 ### Source URL
 
-### Use cases
+### Use cases - mini-investigations
 
 ### Linked datasets
 
